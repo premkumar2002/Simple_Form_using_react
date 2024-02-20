@@ -1,6 +1,6 @@
 body {
-  background-color: azure;
-  color: #fff;
+  background-color: rgb(255, 253, 240);
+  color: #ffffff;
 }
 
 h1 {
@@ -28,9 +28,9 @@ label {
 button {
   padding: 0.3rem;
   font-size: 15px;
-  background-color: rgb(9, 17, 6);
+  background-color: rgb(6, 8, 17);
   border: 4px solid #ccc;
-  color: #ccc;
+  color: #cccccc;
   padding: 10px;
   border-radius: 8px;
   margin: 10px;

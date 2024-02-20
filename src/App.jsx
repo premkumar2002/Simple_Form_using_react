@@ -116,7 +116,6 @@ function App() {
             cols="30"
             rows="10"
             placeholder="About your self"
-            required
           ></textarea>
           <br />
           <br />
